@@ -19,7 +19,7 @@ A content-based music recommendation system with a Spotify-inspired design. Uses
 
 ---
 
-## 📸 Screenshot
+## 📸 App Preview
 
 ![App Preview](./screenshots/home.png)
 
@@ -72,21 +72,28 @@ cd spotify-music-recommendation-system
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-Run the application:
 ```
 
+Run the application:
 ```bash
 streamlit run app.py
 ```
 
+---
+
 📊 Dataset
 This project uses the Spotify Tracks Dataset containing 114,000+ tracks with audio features across 113 genres.
+
+---
 
 📈 Future Work
 Add collaborative filtering using user listening history
 Implement playlist generation based on mood transitions
 Add artist similarity recommendations
 Explore integration with Spotify API for real-time data
+
+---
+
 📬 Contact
 LinkedIn: Sam Bolger
 Email: sbolger@cord.edu
