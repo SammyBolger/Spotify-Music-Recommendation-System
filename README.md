@@ -1,6 +1,6 @@
 # 🎵 Spotify Music Recommendation System
 
-A content-based music recommendation system with a Spotify-inspired design. Uses machine learning (cosine similarity) to recommend songs based on audio features like danceability, energy, valence, tempo, and more.
+A content based music recommendation system with a Spotify inspired design. Uses machine learning to recommend songs based on audio features like danceability, energy, valence, tempo, and more.
 
 ## Live Demo
 
@@ -10,12 +10,12 @@ A content-based music recommendation system with a Spotify-inspired design. Uses
 
 ## Features
 
-- **Song-based recommendations** using cosine similarity on audio features
-- **Mood-based recommendations** for Happy, Sad, Energetic, Chill, Party, and Focus moods
-- **Custom feature sliders** to fine-tune recommendations by audio characteristics
+- **Song based recommendations** using cosine similarity on audio features
+- **Mood based recommendations** for Happy, Sad, Energetic, Chill, Party, and Focus moods
+- **Custom feature sliders** to fine tune recommendations by audio characteristics
 - **Search and browse** across 89,000+ tracks and 113 genres
 - **Interactive visualizations** with radar charts and feature comparisons
-- **Spotify-themed UI** with smooth animations and professional design
+- **Spotify themed UI** with smooth animations and professional design
 
 ---
 
@@ -90,7 +90,7 @@ This project uses the Spotify Tracks Dataset containing 114,000+ tracks with aud
 Add collaborative filtering using user listening history
 Implement playlist generation based on mood transitions
 Add artist similarity recommendations
-Explore integration with Spotify API for real-time data
+Explore integration with Spotify API for real time data
 
 ---
 
