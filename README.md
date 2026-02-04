@@ -2,9 +2,17 @@
 
 A content based music recommendation system with a Spotify inspired design. Uses machine learning to recommend songs based on audio features like danceability, energy, valence, tempo, and more.
 
+---
+
 ## Live Demo
 
 **[Launch the App](https://spotify-music-recommendation-system-sammybolger.streamlit.app/)**
+
+---
+
+## App Preview
+
+![App Preview](./screenshots/home.png)
 
 ---
 
@@ -16,12 +24,6 @@ A content based music recommendation system with a Spotify inspired design. Uses
 - **Search and browse** across 89,000+ tracks and 113 genres
 - **Interactive visualizations** with radar charts and feature comparisons
 - **Spotify themed UI** with smooth animations and professional design
-
----
-
-## App Preview
-
-![App Preview](./screenshots/home.png)
 
 ---
 
