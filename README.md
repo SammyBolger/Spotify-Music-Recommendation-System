@@ -84,20 +84,21 @@ streamlit run app.py
 ---
 
 ## Dataset
-This project uses the Spotify Tracks Dataset containing 114,000+ tracks with audio features across 113 genres.
+[Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) containing 114,000+ tracks with audio features across 113 genres.
 
 ---
 
 ## Future Work
-Add collaborative filtering using user listening history
-Implement playlist generation based on mood transitions
-Add artist similarity recommendations
-Explore integration with Spotify API for real time data
+
+- **Add collaborative filtering** using user listening history
+- **Implement playlist generation** based on mood transitions
+- **Add artist similarity** recommendations
+- **Explore integration** with Spotify API for real time data
 
 ---
 
 ## Contact
 
-- LinkedIn: [Sam Bolger](https://www.linkedin.com/in/sambolger/)
-- Email: sbolger@cord.edu
-- Portfolio: [sammybolger.com](http://www.sammybolger.com/)
+- **LinkedIn:** [Sam Bolger](https://www.linkedin.com/in/sambolger/)
+- **Email:** sbolger@cord.edu
+- **Portfolio:** [sammybolger.com](http://www.sammybolger.com/)
