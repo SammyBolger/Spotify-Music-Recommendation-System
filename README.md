@@ -97,5 +97,7 @@ Explore integration with Spotify API for real time data
 ---
 
 ## Contact
-LinkedIn: Sam Bolger
-Email: sbolger@cord.edu
+
+- LinkedIn: [Sam Bolger](https://www.linkedin.com/in/sambolger/)
+- Email: sbolger@cord.edu
+- Portfolio: [sammybolger.com](http://www.sammybolger.com/)
