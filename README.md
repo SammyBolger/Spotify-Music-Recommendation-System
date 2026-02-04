@@ -2,13 +2,13 @@
 
 A content-based music recommendation system with a Spotify-inspired design. Uses machine learning (cosine similarity) to recommend songs based on audio features like danceability, energy, valence, tempo, and more.
 
-## 🔗 Live Demo
+## Live Demo
 
 **[Launch the App](https://spotify-music-recommendation-system-sammybolger.streamlit.app/)**
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Song-based recommendations** using cosine similarity on audio features
 - **Mood-based recommendations** for Happy, Sad, Energetic, Chill, Party, and Focus moods
@@ -19,13 +19,13 @@ A content-based music recommendation system with a Spotify-inspired design. Uses
 
 ---
 
-## 📸 App Preview
+## App Preview
 
 ![App Preview](./screenshots/home.png)
 
 ---
 
-## 🎧 Audio Features Used
+## Audio Features Used
 
 | Feature | Description | Range |
 |---------|-------------|-------|
@@ -41,7 +41,7 @@ A content-based music recommendation system with a Spotify-inspired design. Uses
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Feature Extraction** – Each song has 9 audio features from Spotify's audio analysis
 2. **Normalization** – Features are scaled using MinMaxScaler (0-1 range)
@@ -50,7 +50,7 @@ A content-based music recommendation system with a Spotify-inspired design. Uses
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.11**
 - **Streamlit** for the web application
@@ -61,7 +61,7 @@ A content-based music recommendation system with a Spotify-inspired design. Uses
 
 ---
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 Clone the repo:
 ```bash
@@ -81,12 +81,12 @@ streamlit run app.py
 
 ---
 
-📊 Dataset
+## Dataset
 This project uses the Spotify Tracks Dataset containing 114,000+ tracks with audio features across 113 genres.
 
 ---
 
-📈 Future Work
+## Future Work
 Add collaborative filtering using user listening history
 Implement playlist generation based on mood transitions
 Add artist similarity recommendations
@@ -94,6 +94,6 @@ Explore integration with Spotify API for real-time data
 
 ---
 
-📬 Contact
+## Contact
 LinkedIn: Sam Bolger
 Email: sbolger@cord.edu
