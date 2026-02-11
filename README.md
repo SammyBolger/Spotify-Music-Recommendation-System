@@ -6,7 +6,7 @@ A content based music recommendation system with a Spotify inspired design. Uses
 
 ## Live Demo
 
-**[Launch the App](https://spotify-music-recommendation-system-sammybolger.streamlit.app/)**
+**[https://SpotifyMusicReccomendationSystem)](https://spotify-music-recommendation-system-8uq2.onrender.com/)**
 
 ---
 
