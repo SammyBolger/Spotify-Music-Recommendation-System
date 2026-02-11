@@ -6,11 +6,11 @@ A content based music recommendation system with a Spotify inspired design. Uses
 
 ## Live Website
 
-**[https://SpotifyMusicReccomendationSystem.com](https://spotify-music-recommendation-system-8uq2.onrender.com/)**
+**[www.SpotifyMusicReccomendationSystem.com](https://spotify-music-recommendation-system-8uq2.onrender.com/)**
 
 ---
 
-## App Preview
+## Screenshots
 
 ![App Preview](./screenshots/home.png)
 
